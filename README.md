@@ -1,7 +1,7 @@
 ### Hey, nice to see you 👋
 
 
-| Eduardo Garcia Alfonso__ | 22YO | ![🇨🇴](https://flagcdn.com/16x12/cu.png) | [eduardojga-portfolio]([https://orlandomm.me](https://eduardojga-portfolio.vercel.app/))
+| Eduardo Garcia Alfonso | 22YO | ![🇨🇴](https://flagcdn.com/16x12/cu.png) | [eduardojga-portfolio]([https://orlandomm.me](https://eduardojga-portfolio.vercel.app/))
 |
 
 _I'm a frontend developer with experience in ReactJS, NextJs, TaildwindCss, TypeScript. Fast learner, proactive, adaptable, empathetic, communicative_
