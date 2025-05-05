@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Fondo con degradado -->
   <defs>
     <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -24,7 +23,7 @@
   <text x="50" y="80" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.backendSkills = ['Node', 'AdonisJS', 'Express'];</text>
   
   <!-- Título principal -->
-  <text x="400" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">PANIK-ATTACK</text>
+  <text x="400" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">Eduardo Javier Pimienta Alfonso</text>
   
   <!-- Subtítulo -->
   <text x="400" y="155" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Desarrollador Fullstack</text>
@@ -50,7 +49,6 @@ Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web mod
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   
   <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -60,25 +58,25 @@ Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web mod
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </div>
 
 ## 🛠️ Habilidades Técnicas
 
 ### Frontend
+- JavaScript / TypeScript
+- React.js
 - Vue.js
 - Nuxt.js
-- React.js
-- JavaScript / TypeScript
+- Next.js
 - HTML5 / CSS3
 - Responsive Design
-- Bootstrap / Tailwind CSS
+- Tailwind CSS
 
 ### Backend
 - Node.js
 - AdonisJS
 - Express.js
-- PHP / Laravel
+- NestJs
 - API RESTful
 - GraphQL
 
@@ -86,13 +84,10 @@ Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web mod
 - MySQL
 - PostgreSQL
 - MongoDB
-- Firebase
 
 ### DevOps & Herramientas
 - Git / GitHub
 - Docker
-- CI/CD
-- AWS / Digital Ocean
 - Webpack / Vite
 
 ## 📊 Estadísticas de GitHub
@@ -106,11 +101,6 @@ Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web mod
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANIK-ATTACK&theme=radical" alt="Racha de contribuciones" />
 </div>
-
-## 📊 Proyectos Destacados
-- [Proyecto 1](https://github.com/PANIK-ATTACK/proyecto1) - Descripción breve del proyecto utilizando tecnologías Vue y AdonisJS
-- [Proyecto 2](https://github.com/PANIK-ATTACK/proyecto2) - Descripción breve del proyecto utilizando tecnologías Nuxt y Node.js
-- [Proyecto 3](https://github.com/PANIK-ATTACK/proyecto3) - Descripción breve del proyecto utilizando tecnologías React y Express
 
 ## 📫 Contacto
 <div align="center">
