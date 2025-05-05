@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <!-- Título principal -->
-  <text x="400" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">Eduardo Javier Pimienta Alfonso</text>
-  
-  <!-- Subtítulo -->
-  <text x="400" y="155" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Desarrollador Fullstack</text>
-</svg>
-
 # Eduardo Javier Pimienta Alfonso
 
 ## 👨‍💻 Sobre mí
