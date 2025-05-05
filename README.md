@@ -18,9 +18,8 @@
   <circle cx="600" cy="30" r="25" fill="#ffffff" fill-opacity="0.1" />
   
   <!-- Líneas de código decorativas -->
-  <text x="50" y="40" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">const dev = new FullstackDeveloper();</text>
-  <text x="50" y="60" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.frontendSkills = ['Vue', 'Nuxt', 'React'];</text>
-  <text x="50" y="80" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.backendSkills = ['Node', 'AdonisJS', 'Express'];</text>
+  <text x="50" y="60" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.frontendSkills = ['Vue', 'Nuxt', 'React, NextJs'];</text>
+  <text x="50" y="80" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.backendSkills = ['Node', 'AdonisJS', 'Express, NestJs'];</text>
   
   <!-- Título principal -->
   <text x="400" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">Eduardo Javier Pimienta Alfonso</text>
@@ -29,7 +28,7 @@
   <text x="400" y="155" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Desarrollador Fullstack</text>
 </svg>
 
-# PANIK-ATTACK
+# Eduardo Javier Pimienta Alfonso
 
 ## 👨‍💻 Sobre mí
 Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web modernas y escalables. Especializado en crear soluciones eficientes utilizando tecnologías frontend y backend de última generación.
@@ -104,11 +103,8 @@ Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web mod
 
 ## 📫 Contacto
 <div align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/eduardojga">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:tu-email@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
