@@ -1,26 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <!-- Fondo con degradado -->
-  <defs>
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3a1c71;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#d76d77;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffaf7b;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Fondo del banner -->
-  <rect width="800" height="200" fill="url(#bg-gradient)" rx="10" ry="10" />
-  
-  <!-- Círculos decorativos -->
-  <circle cx="50" cy="50" r="20" fill="#ffffff" fill-opacity="0.1" />
-  <circle cx="750" cy="150" r="30" fill="#ffffff" fill-opacity="0.1" />
-  <circle cx="200" cy="180" r="15" fill="#ffffff" fill-opacity="0.1" />
-  <circle cx="600" cy="30" r="25" fill="#ffffff" fill-opacity="0.1" />
-  
-  <!-- Líneas de código decorativas -->
-  <text x="50" y="60" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.frontendSkills = ['Vue', 'Nuxt', 'React, NextJs'];</text>
-  <text x="50" y="80" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.backendSkills = ['Node', 'AdonisJS', 'Express, NestJs'];</text>
-  
   <!-- Título principal -->
   <text x="400" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">Eduardo Javier Pimienta Alfonso</text>
   
