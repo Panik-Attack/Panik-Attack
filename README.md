@@ -1,13 +1,129 @@
-### Hey, nice to see you 👋
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo con degradado -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a1c71;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d76d77;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffaf7b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fondo del banner -->
+  <rect width="800" height="200" fill="url(#bg-gradient)" rx="10" ry="10" />
+  
+  <!-- Círculos decorativos -->
+  <circle cx="50" cy="50" r="20" fill="#ffffff" fill-opacity="0.1" />
+  <circle cx="750" cy="150" r="30" fill="#ffffff" fill-opacity="0.1" />
+  <circle cx="200" cy="180" r="15" fill="#ffffff" fill-opacity="0.1" />
+  <circle cx="600" cy="30" r="25" fill="#ffffff" fill-opacity="0.1" />
+  
+  <!-- Líneas de código decorativas -->
+  <text x="50" y="40" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">const dev = new FullstackDeveloper();</text>
+  <text x="50" y="60" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.frontendSkills = ['Vue', 'Nuxt', 'React'];</text>
+  <text x="50" y="80" fill="#ffffff" fill-opacity="0.4" font-family="monospace" font-size="12">dev.backendSkills = ['Node', 'AdonisJS', 'Express'];</text>
+  
+  <!-- Título principal -->
+  <text x="400" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">PANIK-ATTACK</text>
+  
+  <!-- Subtítulo -->
+  <text x="400" y="155" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Desarrollador Fullstack</text>
+</svg>
 
+# PANIK-ATTACK
 
-| Eduardo Garcia Alfonso | 23YO | ![🇨🇴](https://flagcdn.com/16x12/cu.png) | [eduardojga-portfolio]([https://orlandomm.me](https://eduardojga-portfolio.vercel.app/))
-|
+## 👨‍💻 Sobre mí
+Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web modernas y escalables. Especializado en crear soluciones eficientes utilizando tecnologías frontend y backend de última generación.
 
-_I'm a frontend developer with experience in ReactJS, NextJs, TailwindCss, TypeScript. Fast learner, proactive, adaptable, empathetic, communicative_
+## 🔧 Stack Tecnológico
 
-###
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
 
-### Skills
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panik-attack&layout=compact)]|
-|:---|---|
+## 🛠️ Habilidades Técnicas
+
+### Frontend
+- Vue.js
+- Nuxt.js
+- React.js
+- JavaScript / TypeScript
+- HTML5 / CSS3
+- Responsive Design
+- Bootstrap / Tailwind CSS
+
+### Backend
+- Node.js
+- AdonisJS
+- Express.js
+- PHP / Laravel
+- API RESTful
+- GraphQL
+
+### Bases de Datos
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
+
+### DevOps & Herramientas
+- Git / GitHub
+- Docker
+- CI/CD
+- AWS / Digital Ocean
+- Webpack / Vite
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PANIK-ATTACK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANIK-ATTACK&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+### 🔥 Racha de contribuciones
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PANIK-ATTACK&theme=radical" alt="Racha de contribuciones" />
+</div>
+
+## 📊 Proyectos Destacados
+- [Proyecto 1](https://github.com/PANIK-ATTACK/proyecto1) - Descripción breve del proyecto utilizando tecnologías Vue y AdonisJS
+- [Proyecto 2](https://github.com/PANIK-ATTACK/proyecto2) - Descripción breve del proyecto utilizando tecnologías Nuxt y Node.js
+- [Proyecto 3](https://github.com/PANIK-ATTACK/proyecto3) - Descripción breve del proyecto utilizando tecnologías React y Express
+
+## 📫 Contacto
+<div align="center">
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+⭐️ From [PANIK-ATTACK](https://github.com/PANIK-ATTACK)
